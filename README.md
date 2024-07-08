@@ -64,23 +64,23 @@ This project implements a library management system using Enterprise JavaBeans (
 
    ```sh
    git clone https://github.com/yourusername/library-management.git
-####Import the project into your IDE (e.g., NetBeans, IntelliJ IDEA).
+-Import the project into your IDE (e.g., NetBeans, IntelliJ IDEA).
 
-####Configure the database connection in persistence.xml (unit name: LibraryPU).
+-Configure the database connection in persistence.xml (unit name: LibraryPU).
 
-####Build and deploy the project to a Java EE application server (e.g., WildFly, GlassFish).
+-Build and deploy the project to a Java EE application server (e.g., WildFly, GlassFish).
 
-####Access the application through the servlet endpoints (e.g., http://localhost:8080/LibraryServlet).
+-Access the application through the servlet endpoints (e.g., http://localhost:8080/LibraryServlet).
 
 ##Technologies Used
-###Java EE
-###Enterprise JavaBeans (EJB)
-###Servlet
-###Java Persistence API (JPA)
-###Jakarta EE
-###HTML/CSS for front-end views
-###Dependencies
-###jakarta.ejb
-###jakarta.persistence
-###jakarta.servlet
-###javax.annotation 
+-Java EE
+-Enterprise JavaBeans (EJB)
+-Servlet
+-Java Persistence API (JPA)
+-Jakarta EE
+-HTML/CSS for front-end views
+-Dependencies
+-jakarta.ejb
+-jakarta.persistence
+-jakarta.servlet
+-javax.annotation 
